@@ -1,5 +1,5 @@
 # PARADA-10--PROJETO-FIGMA
-Grupo- Juliana, Maikel, Evely, Sabrina.
+Grupo- Juliana, Maikel, Maria Evely , Sabrina
 
 ![Hamburgueria](https://user-images.githubusercontent.com/110365120/230367563-c5bd8b07-b111-4004-a454-ad798b93e53e.png)
 
